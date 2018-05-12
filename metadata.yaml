@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3753
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Henry_Bullen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46312#The-Works-of-John-MarstonVolume-3
 gutenberg_issued: '2014-07-17'
 gutenberg_type: Text
 identifiers:
